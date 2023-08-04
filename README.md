@@ -1,4 +1,5 @@
 # multistage-continuousflow-manufacturing-process
+Kaggle dataset : https://www.kaggle.com/datasets/supergus/multistage-continuousflow-manufacturing-process
 The data comes from a multi-stage continuous flow manufacturing process. In the first stage,
 Machines 1, 2, and 3 operate in parallel, and feed their outputs into a step that combines the
 flows. Output from the combiner is measured in 15 locations surrounding the outer surface of
