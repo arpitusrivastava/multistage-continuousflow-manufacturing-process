@@ -26,3 +26,9 @@ data. This is done by fitting an OLS model, then eliminating the feature with th
 highest p-value if it's greater than 0.05. Once all insignificant features are removed,
 we train an SVM with a Polynomial kernel using the selected features, and print the
 score of the model.
+
+References:  https://medium.com/analytics-vidhya/applying-data-science-in-manufacturing-part-iii-continuous-process-methodology-and-lessons-463021c33b05
+            (https://ryandmonson.medium.com/)
+            
+
+
